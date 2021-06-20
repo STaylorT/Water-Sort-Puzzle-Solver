@@ -7,7 +7,13 @@ using namespace std;
 
 
 int main(){
-
+for (int i = 0; i < numTubes; i++){
+  for (int j = 0; j < MAX_COLOR; j++){
+   // make new color in tube.
+    // show
+  }
+  // move next tube possibly
+}
 
 
 return 0;
